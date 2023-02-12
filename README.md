@@ -15,9 +15,9 @@ Original scripts not included due to copyright issues.
 
 Code used in the following papers:
 
-S. Zheng, J. Guo, X. Cui, R. N. J. Veldhuis, M. Oudkerk and P. M. A. van Ooijen, "Automatic Pulmonary Nodule Detection in CT Scans Using Convolutional Neural Networks Based on Maximum Intensity Projection," in IEEE Transactions on Medical Imaging, vol. 39, no. 3, pp. 797-805, March 2020, [doi: ](10.1109/TMI.2019.2935553).
+[S. Zheng, J. Guo, X. Cui, R. N. J. Veldhuis, M. Oudkerk and P. M. A. van Ooijen, "Automatic Pulmonary Nodule Detection in CT Scans Using Convolutional Neural Networks Based on Maximum Intensity Projection," in IEEE Transactions on Medical Imaging, vol. 39, no. 3, pp. 797-805, March 2020, doi:10.1109/TMI.2019.2935553.](https://ieeexplore.ieee.org/document/8801875)
 
-Zheng S, Cornelissen LJ, Cui X, Jing X, Veldhuis RNJ, Oudkerk M, van Ooijen PMA. Deep convolutional neural networks for multiplanar lung nodule detection: Improvement in small nodule identification. Med Phys. 2021 Feb;48(2):733-744. [doi: ](10.1002/mp.14648). Epub 2020 Dec 30. PMID: 33300162; PMCID: PMC7986069.
+[Zheng S, Cornelissen LJ, Cui X, Jing X, Veldhuis RNJ, Oudkerk M, van Ooijen PMA. Deep convolutional neural networks for multiplanar lung nodule detection: Improvement in small nodule identification. Med Phys. 2021 Feb;48(2):733-744. doi:10.1002/mp.14648. Epub 2020 Dec 30. PMID: 33300162; PMCID: PMC7986069.](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14648)
 
 An alternative to using Docker is Singularity. More information on how to use this can be found [here](https://medium.com/p/40121d0b843b)
 
